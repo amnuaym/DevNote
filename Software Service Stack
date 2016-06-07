@@ -1,0 +1,58 @@
+
+Web
+Node.js ++++
+PHP
+.Net
+Ruby
+Go
+J2EE
+
+Backend API
+Restify ++++
+Loopback
+
+Database
+MongoDB JSON or NoSQL
+MySQL
+PostgreSQL ++++ Join
+OrientDB
+Neo4j
+
+Frontend
+Angular       +
+React         +
+
+IOS/Android
+Native Swift and Android SDK
+CircleCI?
+
+Git Flow
+
+Server Infrastructure
+OpenShift            Free but hard to manage
+Digital Ocean        Easy but think about Support
+Heroku               Alwats update software but expensive
+Microsoft Azure      expensive
+IBM Bluemix          free for some other expensive
+AWS                 Good integration many services.
+
+
+Snedgrid
+Mailchimp
+Slack
+Hubot
+PivotalTracker
+Redis for Authen
+Cloudfront for CDN
+Jenkins
+ElasticSearch
+
+
+
+
+
+
+
+
+
+
