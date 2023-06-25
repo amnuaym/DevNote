@@ -1,0 +1,21 @@
+Download flutter 
+
+(Version as of 20230625 is 3.10.5-stable)
+
+https://docs.flutter.dev/get-started/install
+
+Extract and put it in c:\src\ as c:\src\flutter
+
+Add path in env to c:\src\flutter\bin so that where flutter show 
+	c:\src\flutter\bin\flutter 
+	and
+	c:\src\flutter\bin\flutter.bat
+
+run "flutter doctor" 
+	flutter doctor
+
+
+Donload Microsoft VSCode, Visual Studio 
+	https://code.visualstudio.com/download
+	https://visualstudio.microsoft.com/downloads/.
+
